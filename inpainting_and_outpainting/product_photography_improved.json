@@ -82,7 +82,7 @@
                 122
             ],
             "flags": {},
-            "order": 12,
+            "order": 14,
             "mode": 0,
             "inputs": [
                 {
@@ -241,7 +241,7 @@
                 186
             ],
             "flags": {},
-            "order": 22,
+            "order": 21,
             "mode": 0,
             "inputs": [
                 {
@@ -553,7 +553,7 @@
                 46
             ],
             "flags": {},
-            "order": 13,
+            "order": 15,
             "mode": 0,
             "inputs": [
                 {
@@ -596,7 +596,7 @@
                 218
             ],
             "flags": {},
-            "order": 10,
+            "order": 11,
             "mode": 0,
             "inputs": [
                 {
@@ -630,10 +630,10 @@
                 }
             ],
             "properties": {
-                "cnr_id": "comfyui_essentials",
+                "aux_id": "cubiq/ComfyUI_essentials",
                 "ver": "33ff89fd354d8ec3ab6affb605a79a931b445d99",
                 "Node name for S&R": "ImageResize+",
-                "aux_id": "cubiq/ComfyUI_essentials"
+                "cnr_id": "comfyui_essentials"
             },
             "widgets_values": [
                 1024,
@@ -656,7 +656,7 @@
                 164.31304931640625
             ],
             "flags": {},
-            "order": 16,
+            "order": 12,
             "mode": 0,
             "inputs": [
                 {
@@ -737,7 +737,7 @@
                 82
             ],
             "flags": {},
-            "order": 14,
+            "order": 16,
             "mode": 0,
             "inputs": [
                 {
@@ -1128,7 +1128,7 @@
             "flags": {
                 "collapsed": false
             },
-            "order": 17,
+            "order": 13,
             "mode": 0,
             "inputs": [
                 {
@@ -1263,7 +1263,7 @@
                 82
             ],
             "flags": {},
-            "order": 21,
+            "order": 22,
             "mode": 0,
             "inputs": [
                 {
@@ -1304,7 +1304,7 @@
                 58
             ],
             "flags": {},
-            "order": 15,
+            "order": 17,
             "mode": 0,
             "inputs": [
                 {
@@ -1534,7 +1534,7 @@
                 196.48919677734375
             ],
             "flags": {},
-            "order": 11,
+            "order": 10,
             "mode": 0,
             "inputs": [
                 {
@@ -2161,7 +2161,7 @@
                 "FlowScale",
                 "png",
                 "Output Image",
-                95,
+                100,
                 false
             ]
         },
@@ -2177,7 +2177,7 @@
                 318
             ],
             "flags": {},
-            "order": 5,
+            "order": 6,
             "mode": 0,
             "inputs": [],
             "outputs": [
@@ -2205,15 +2205,15 @@
             "id": 66,
             "type": "FSLoadText",
             "pos": [
-                -262.6473083496094,
-                1234.0048828125
+                -265.5755615234375,
+                1288.1768798828125
             ],
             "size": [
                 400,
                 200
             ],
             "flags": {},
-            "order": 6,
+            "order": 5,
             "mode": 0,
             "inputs": [],
             "outputs": [
@@ -2990,10 +2990,10 @@
     "config": {},
     "extra": {
         "ds": {
-            "scale": 1.1,
+            "scale": 0.5131581182307068,
             "offset": [
-                348.52781037275685,
-                -1105.2488359269257
+                -1029.9365752704412,
+                -1062.0552646488907
             ]
         }
     },

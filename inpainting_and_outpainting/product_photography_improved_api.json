@@ -763,7 +763,7 @@
             "filename_prefix": "FlowScale",
             "format": "png",
             "label": "Output Image",
-            "quality": 95,
+            "quality": 100,
             "lossless": false,
             "images": [
                 "58",
